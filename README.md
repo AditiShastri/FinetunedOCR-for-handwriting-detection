@@ -1,2 +1,4 @@
-# FinetunedOCR-for-handwriting-detection
-This repo contains the fine tuned best model for PaddleOCR. 
+-PaddleOCR: the Paddle model
+-gui.py: simple tkinter GUI to visualise results
+-testing.zip: a few images to try it out on
+-best_model: the finetuned model
